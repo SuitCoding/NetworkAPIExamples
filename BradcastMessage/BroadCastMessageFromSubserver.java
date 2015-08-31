@@ -29,6 +29,7 @@ public class Example extends JavaPlugin implements Listener {
    
     /**
     *If a player died, the death message get broadcastet around the network to everybody who has the permission on every server!
+    */
     @EventHandler(priority=EventPriority.NORMAL)
     public void onDeath(PlayerDeathEvent e){
         Player p = e.getEntity();
