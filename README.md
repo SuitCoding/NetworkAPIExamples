@@ -1,6 +1,3 @@
-# NetworkAPIExamples
-A few examples of the NetworkAPI
-
-Here you can find a few examples what the NetworkAPI can do!
-
-It can more than only broadcast a message or execute a command on another server!
+#NOTE:
+#The Project has been moved to the following Link:
+#https://github.com/PlayerForceHD/NetworkAPI
